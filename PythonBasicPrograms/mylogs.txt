@@ -1,0 +1,22 @@
+Drank water at  2022-10-28 14:44:41.380649
+Drank water at  2022-10-28 14:48:58.614579
+Drank water at  2022-10-28 14:51:34.951818
+Physical Activity done at  2022-10-28 14:51:47.354152
+Eyes relaxed at  2022-10-28 14:51:56.065555
+Physical Activity done at  2022-10-28 14:52:12.692693
+Drank water at  2022-10-28 14:53:02.907385
+Physical Activity done at  2022-10-28 14:53:11.868184
+Eyes relaxed at  2022-10-28 14:53:18.325511
+Drank water at  2022-10-28 14:55:42.207205
+Physical Activity done at  2022-10-28 14:55:48.923224
+Drank water at  2022-10-28 14:55:53.234122
+Eyes relaxed at  2022-10-28 14:56:00.464768
+Physical Activity done at  2022-10-28 14:57:34.313747
+Drank water at  2022-10-28 14:57:48.340676
+Eyes relaxed at  2022-10-28 14:58:04.503115
+Physical Activity done at  2022-10-28 14:58:22.606440
+Drank water at  2022-10-28 15:11:56.762309
+Physical Activity done at  2022-10-28 15:12:02.430334
+Drank water at  2022-10-28 15:12:05.816501
+Eyes relaxed at  2022-10-28 15:12:12.199648
+Drank water at  2022-10-28 15:14:51.560149
